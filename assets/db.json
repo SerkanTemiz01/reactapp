@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "name": "Chiquita Clayton",
+      "course": "Eum quo quis adipisi",
+      "instructor": "Laudantium quisquam",
+      "score": "Quo dolorem dolore t",
+      "id": 4
+    },
+    {
+      "name": "Lavinia Woodward",
+      "course": "Dolorum id quidem su",
+      "instructor": "Tenetur minus sed en",
+      "score": "Et vitae eius modi d",
+      "id": 5
+    }
+  ]
+}
